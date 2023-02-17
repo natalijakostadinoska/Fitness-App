@@ -16,9 +16,9 @@
 
 > To run the project on your Visual Studio Code program, you'll need to:
 
-    npm install - to install the packages you miss
+    npm install # to install the packages you miss
 
 >Then:
 
-    npm run dev - to run the whole application
+    npm run dev # to run the whole application
 
